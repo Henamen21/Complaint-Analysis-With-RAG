@@ -6,3 +6,5 @@ scikit-learn
 nltk
 spacy
 transformers
+langchain
+faiss-cpu
