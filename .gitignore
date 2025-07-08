@@ -1,3 +1,4 @@
 /compliant-venv/
 /data/
 /vector_store
+/app/.env
