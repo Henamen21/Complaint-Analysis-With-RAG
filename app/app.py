@@ -51,4 +51,4 @@ if user_query := st.chat_input("Ask a question about customer complaints..."):
 
 if st.button("🔁 Reset Chat"):
     st.session_state.chat_history = []
-    st.experimental_rerun()
+    st.rerun()
