@@ -2,3 +2,4 @@
 /data/
 /vector_store
 /app/.env
+/app/__pycache__
