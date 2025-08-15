@@ -5,6 +5,15 @@ This project is an internal AI tool for **CrediTrust Financial** that helps prod
 Built using **Retrieval-Augmented Generation (RAG)**, the system answers plain-English questions using real customer complaint narratives from the **Consumer Financial Protection Bureau (CFPB)** dataset.
 
 ---
+-<p align="center">
+  <img src="https://github.com/user-attachments/assets/0cf0e328-b228-4e26-8d2d-570276bb3792" 
+       alt="image" 
+       width="698" 
+       height="556" 
+       style="border: 5px solid white;">
+</p>
+
+---
 
 ## 🚀 Project Goals
 
