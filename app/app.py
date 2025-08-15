@@ -10,7 +10,7 @@ from rag_pipeline import (
 )
 
 st.set_page_config(page_title="CrediTrust Complaint Chat")
-st.title("📊 CrediTrust Complaint RAG Chatbot")
+st.title("CrediTrust Complaint Chatbot")
 
 # Load resources (cached)
 embed_model = load_embed_model()
