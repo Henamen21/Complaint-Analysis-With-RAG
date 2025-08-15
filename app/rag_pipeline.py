@@ -1,4 +1,3 @@
-# rag_pipeline.py
 import os
 import faiss
 import pickle
@@ -24,6 +23,7 @@ def load_vector_store():
 @st.cache_resource
 def load_client():
     HF_TOKEN = os.getenv("HUGGINGFACEHUB_API_TOKEN")
+    print(HF_TOKEN)
     return InferenceClient(model="HuggingFaceH4/zephyr-7b-beta", token=HF_TOKEN)
 
 # RAG logic
