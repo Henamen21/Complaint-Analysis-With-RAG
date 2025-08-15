@@ -6,5 +6,9 @@ scikit-learn
 nltk
 spacy
 transformers
+sentence_transformers
 langchain
 faiss-cpu
+langchain 
+chromadb
+ipykernel
